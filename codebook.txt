@@ -1,0 +1,23 @@
+All the feature names correspond to the names from original data.
+Each value is average for specified activity and subject.
+
+subject     - subject ID
+activity    - form of activity
+
+fBodyAcc
+fBodyAccJerk
+fBodyAccMag
+fBodyBodyAccJerkMag
+fBodyBodyGyroJerkMag
+fBodyBodyGyroMag
+fBodyGyro
+tBodyAcc
+tBodyAccJerk
+tBodyAccJerkMag
+tBodyAccMag
+tBodyGyro
+tBodyGyroJerk
+tBodyGyroJerkMag
+tBodyGyroMag
+tGravityAcc
+tGravityAccMag
